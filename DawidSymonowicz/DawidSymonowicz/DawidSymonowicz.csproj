@@ -41,6 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="klasy\Figury.cs" />
+    <Compile Include="klasy\goniec.cs" />
+    <Compile Include="klasy\hetman.cs" />
+    <Compile Include="klasy\pionek.cs" />
+    <Compile Include="klasy\pozycja.cs" />
+    <Compile Include="klasy\wieza.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
